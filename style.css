@@ -92,6 +92,7 @@ body{
     outline: none;
     color: #ffffff;
     cursor: pointer;
+    font-size: xx-large;
 }
 #tasks{
     margin-top: 1em;
